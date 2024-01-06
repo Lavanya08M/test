@@ -1,3 +1,5 @@
 This is info file
 
 New line is added to the info file
+
+This is the second new line
